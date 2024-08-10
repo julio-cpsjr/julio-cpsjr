@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Júlio César  and I'm a Fullstack Developer from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Júlio César and I'm Fullstack Developer from Brazil. I like programming language and my weekends I like watching playlists at Youtube about machine learning and I listening my favorite songs.</h2>
 
 ###
 
