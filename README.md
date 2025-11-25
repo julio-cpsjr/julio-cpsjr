@@ -1,17 +1,68 @@
-<h2 align="left">Hi 👋! My name is Júlio César and I'm Fullstack Developer. I like programming language and my weekends I like watching playlists at Youtube about machine learning and I listening my favorite songs.</h2>
+<h2 align="left">👨‍💻 Júlio — Desenvolvedor Java </h2>
 
-###
+Sou um desenvolvedor em formação, com foco principal em Java, back-end, boas práticas, APIs REST e fundamentos de arquitetura de software.
+Atualmente estou construindo projetos sólidos para fortalecer meu portfólio e conquistar minha primeira oportunidade como Java Developer.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julio-cpsjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julio-cpsjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🚀 Stack Principal
 
-###
+🔸 Linguagem
+
+Java (principal)
+
+Python (scripts e automações)
+
+SQL
+
+🔸 Frameworks & Ferramentas
+
+Spring Boot
+
+Maven
+
+JUnit
+
+Docker
+
+Git & GitHub
+
+🔸 Conceitos
+
+Programação Orientada a Objetos (POO)
+
+SOLID
+
+Clean Code
+
+APIs REST
+
+Versionamento de código
+
+Testes unitários
+
+📘 O que estou estudando agora
+
+Fundamentos avançados de Java
+
+Spring Boot (Web, Data JPA, Security)
+
+Testes unitários + integração
+
+Padrões de projeto
+
+Deploy de aplicações Java
+
+Docker aplicado a serviços Java
+
+🎯 Objetivo Profissional
+
+Atuar como Desenvolvedor Java Back-end, contribuindo com sistemas escaláveis, organizados e de alta qualidade.
+
+<br clear="both">
+<br clear="both">
+
 
 <img align="right" height="100" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -65,7 +116,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/julio-cpsjr/julio-cpsjr/output/snake.svg" alt="Snake animation" />
 
 ###
