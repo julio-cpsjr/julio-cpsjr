@@ -1,7 +1,13 @@
-<h2 align="left">👨‍💻 Júlio — Desenvolvedor Java </h2>
+<h2>👨‍💻 Júlio — <center>Desenvolvedor Java</center> </h2>
+
+<div align="center">
+  <img  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
+</div>
+
 
 Sou um desenvolvedor em formação, com foco principal em Java, back-end, boas práticas, APIs REST e fundamentos de arquitetura de software.
 Atualmente estou construindo projetos sólidos para fortalecer meu portfólio e conquistar minha primeira oportunidade como Java Developer.
+
 
 🚀 Stack Principal
 
@@ -61,10 +67,9 @@ Atuar como Desenvolvedor Java Back-end, contribuindo com sistemas escaláveis, o
 <br clear="both">
 
 
-<img align="right" height="100" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
