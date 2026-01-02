@@ -93,7 +93,7 @@ Aplicações em console e APIs REST
 
 🤝 Vamos nos conectar
 
-
+Linkedin: https://www.linkedin.com/in/julio-dev-backend/
 
 📂 GitHub: você já está aqui 😄
 
