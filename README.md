@@ -1,67 +1,103 @@
-<h2>👨‍💻 Júlio — <center>Desenvolvedor Java</center> </h2>
+
 
 <div align="center">
   <img  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<br/>
+👋 Olá, eu sou Desenvolvedor Java ☕
+<br/>
 </div>
 
 
-Sou um desenvolvedor em formação, com foco principal em Java, back-end, boas práticas, APIs REST e fundamentos de arquitetura de software.
-Atualmente estou construindo projetos sólidos para fortalecer meu portfólio e conquistar minha primeira oportunidade como Java Developer.
 
+Engenheiro Eletricista em transição para Desenvolvimento de Software com Java, com foco em fundamentos sólidos, código limpo e soluções backend escaláveis.
 
-🚀 Stack Principal
+🚀 Sobre mim:
 
-🔸 Linguagem
+⚡ Formação em Engenharia Elétrica
 
-Java (principal)
+☕ Desenvolvedor Java (foco em Backend)
 
-Python (scripts e automações)
+🧠 Forte raciocínio lógico, pensamento analítico e resolução de problemas
 
-SQL
+📚 Aprendizado contínuo com projetos práticos
 
-🔸 Frameworks & Ferramentas
+📍 Uberlândia - MG, Brasil
 
-Spring Boot
+🛠️ Stack Tecnológica:
+- Base:
 
-Maven
+☕ Java
 
-JUnit
+🧩 Programação Orientada a Objetos (POO)
 
-Docker
+🧠 Estruturas de Dados e Algoritmos (em evolução)
 
-Git & GitHub
+- Backend & Ferramentas:
 
-🔸 Conceitos
+🌱 Spring Boot (em aprendizado)
 
-Programação Orientada a Objetos (POO)
+🗄️ SQL (fundamentos)
 
-SOLID
+🔧 Git & GitHub
+
+🐧 Linux (básico)
+
+- Conceitos:
 
 Clean Code
 
-APIs REST
+Princípios SOLID (introdução)
 
-Versionamento de código
+APIs REST (em aprendizado)
 
-Testes unitários
+🗺️ Roadmap de Aprendizado Java
+✅ Fundamentos
 
-📘 O que estou estudando agora
+Sintaxe Java e APIs principais
 
-Fundamentos avançados de Java
+POO (Encapsulamento, Herança, Polimorfismo)
 
-Spring Boot (Web, Data JPA, Security)
+Tratamento de Exceções
 
-Testes unitários + integração
+Collections Framework
 
-Padrões de projeto
+🔄 Em andamento
 
-Deploy de aplicações Java
+Fundamentos de Spring Boot
 
-Docker aplicado a serviços Java
+Desenvolvimento de APIs REST
 
-🎯 Objetivo Profissional
+Integração com bancos de dados SQL
 
-Atuar como Desenvolvedor Java Back-end, contribuindo com sistemas escaláveis, organizados e de alta qualidade.
+Testes unitários (básico)
+
+⏭️ Próximos passos
+
+Spring Security (introdução)
+
+JPA / Hibernate
+
+Padrões de Projeto
+
+Conceitos básicos de Cloud
+
+📌 Projetos em destaque
+
+🚧 Os projetos serão adicionados progressivamente conforme avanço no roadmap.
+
+Exercícios de fundamentos em Java
+
+Pequenos serviços backend
+
+Aplicações em console e APIs REST
+
+🤝 Vamos nos conectar
+
+💼 LinkedIn: (adicione seu link aqui)
+
+📂 GitHub: você já está aqui 😄
+
+"Consistência vence intensidade." 🚀
 
 <br clear="both">
 <br clear="both">
