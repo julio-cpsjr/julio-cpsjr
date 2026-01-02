@@ -93,7 +93,7 @@ Aplicações em console e APIs REST
 
 🤝 Vamos nos conectar
 
-💼 LinkedIn: (adicione seu link aqui)
+
 
 📂 GitHub: você já está aqui 😄
 
