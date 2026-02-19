@@ -7,8 +7,6 @@
 <br/>
 </div>
 
-# 👨‍💻 Júlio | Desenvolvedor Backend Java em Formação
-
 Desenvolvedor em formação focado em **Java e Backend**, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)  
