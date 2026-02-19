@@ -3,102 +3,124 @@
 <div align="center">
   <img  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <br/>
-👋 Olá, eu sou Desenvolvedor Java ☕
+👨‍💻 Júlio | Desenvolvedor Backend Java em Formação
 <br/>
 </div>
 
 
 
-Engenheiro Eletricista em transição para Desenvolvimento de Software com Java, com foco em fundamentos sólidos, código limpo e soluções backend escaláveis.
 
-🚀 Sobre mim:
+Desenvolvedor em formação focado em Java e Backend, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
 
-⚡ Formação em Engenharia Elétrica
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
+📍 Uberlândia — MG, Brasil
+🚀 Em busca da primeira oportunidade como desenvolvedor backend
 
-☕ Desenvolvedor Java (foco em Backend)
+☕ Sobre mim
 
-🧠 Forte raciocínio lógico, pensamento analítico e resolução de problemas
+💻 Foco em desenvolvimento backend com Java
 
-📚 Aprendizado contínuo com projetos práticos
+🧠 Forte raciocínio lógico e pensamento analítico
 
-📍 Uberlândia - MG, Brasil
+🧩 Resolução de problemas orientada a eficiência e qualidade
 
-🛠️ Stack Tecnológica:
-- Base:
+📚 Aprendizado contínuo através de projetos práticos
+
+⚡ Interesse em arquitetura de software e boas práticas
+
+🛠️ Stack Tecnológica
+👨‍💻 Linguagem Principal
 
 ☕ Java
 
-🧩 Programação Orientada a Objetos (POO)
+🧩 Fundamentos de Software
 
-🧠 Estruturas de Dados e Algoritmos (em evolução)
+Programação Orientada a Objetos (POO)
 
-- Backend & Ferramentas:
-
-🌱 Spring Boot (em aprendizado)
-
-🗄️ SQL (fundamentos)
-
-🔧 Git & GitHub
-
-🐧 Linux (básico)
-
-- Conceitos:
-
-Clean Code
-
-Princípios SOLID (introdução)
-
-APIs REST (em aprendizado)
-
-🗺️ Roadmap de Aprendizado Java
-✅ Fundamentos
-
-Sintaxe Java e APIs principais
-
-POO (Encapsulamento, Herança, Polimorfismo)
+Estruturas de Dados e Algoritmos
 
 Tratamento de Exceções
 
 Collections Framework
 
+🌱 Backend & Ferramentas
+
+Spring Boot (em aprendizado)
+
+APIs REST
+
+SQL (fundamentos)
+
+Git & GitHub
+
+Linux (básico)
+
+🧠 Princípios e Boas Práticas
+
+Clean Code
+
+SOLID (introdução)
+
+Arquitetura em camadas
+
+Versionamento de código
+
+🗺️ Roadmap de Aprendizado
+✅ Fundamentos Java
+
+Sintaxe e APIs principais
+
+POO (Encapsulamento, Herança, Polimorfismo)
+
+Exceptions
+
+Collections
+
 🔄 Em andamento
 
-Fundamentos de Spring Boot
+Spring Boot
 
 Desenvolvimento de APIs REST
 
-Integração com bancos de dados SQL
+Integração com banco de dados SQL
 
 Testes unitários (básico)
 
 ⏭️ Próximos passos
 
-Spring Security (introdução)
-
 JPA / Hibernate
+
+Spring Security
 
 Padrões de Projeto
 
-Conceitos básicos de Cloud
+Testes automatizados avançados
 
-📌 Projetos em destaque
+Conceitos de Cloud
 
-🚧 Os projetos serão adicionados progressivamente conforme avanço no roadmap.
+📌 Projetos em Destaque
+
+🚧 Projetos serão adicionados conforme evolução do aprendizado.
 
 Exercícios de fundamentos em Java
 
+Aplicações em console
+
 Pequenos serviços backend
 
-Aplicações em console e APIs REST
+APIs REST
 
-🤝 Vamos nos conectar
+🤝 Conecte-se comigo
 
-Linkedin: https://www.linkedin.com/in/julio-dev-backend/
+💼 LinkedIn: https://www.linkedin.com/in/julio-dev-backend/
 
-📂 GitHub: você já está aqui 😄
+📂 GitHub: Você já está aqui 😄
 
-"Consistência vence intensidade." 🚀
+📈 Objetivo Profissional
 
+Atuar como Desenvolvedor Backend Java, contribuindo para a construção de sistemas robustos, escaláveis e bem estruturados, enquanto evoluo continuamente minhas habilidades técnicas.
+
+⭐ "Consistência vence intensidade."
 <br clear="both">
 <br clear="both">
 
