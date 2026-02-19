@@ -7,120 +7,101 @@
 <br/>
 </div>
 
+# 👨‍💻 Júlio | Desenvolvedor Backend Java em Formação
 
+Desenvolvedor em formação focado em **Java e Backend**, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
 
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)  
+📍 Uberlândia — MG, Brasil  
+🚀 Em busca da primeira oportunidade como desenvolvedor backend  
 
-Desenvolvedor em formação focado em Java e Backend, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
+---
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
-📍 Uberlândia — MG, Brasil
-🚀 Em busca da primeira oportunidade como desenvolvedor backend
+## ☕ Sobre mim
 
-☕ Sobre mim
+- 💻 Foco em desenvolvimento backend com Java  
+- 🧠 Forte raciocínio lógico e pensamento analítico  
+- 🧩 Resolução de problemas orientada à eficiência e qualidade  
+- 📚 Aprendizado contínuo através de projetos práticos  
+- ⚡ Interesse em arquitetura de software e boas práticas  
 
-💻 Foco em desenvolvimento backend com Java
+---
 
-🧠 Forte raciocínio lógico e pensamento analítico
+## 🛠️ Stack Tecnológica
 
-🧩 Resolução de problemas orientada a eficiência e qualidade
+### 👨‍💻 Linguagem Principal
+- ☕ Java
 
-📚 Aprendizado contínuo através de projetos práticos
+### 🧩 Fundamentos de Software
+- Programação Orientada a Objetos (POO)  
+- Estruturas de Dados e Algoritmos  
+- Tratamento de Exceções  
+- Collections Framework  
 
-⚡ Interesse em arquitetura de software e boas práticas
+### 🌱 Backend & Ferramentas
+- Spring Boot (em aprendizado)  
+- APIs REST  
+- SQL (fundamentos)  
+- Git & GitHub  
+- Linux (básico)  
 
-🛠️ Stack Tecnológica
-👨‍💻 Linguagem Principal
+### 🧠 Princípios e Boas Práticas
+- Clean Code  
+- SOLID (introdução)  
+- Arquitetura em camadas  
+- Versionamento de código  
 
-☕ Java
+---
 
-🧩 Fundamentos de Software
+## 🗺️ Roadmap de Aprendizado
 
-Programação Orientada a Objetos (POO)
+### ✅ Fundamentos Java
+- Sintaxe e APIs principais  
+- POO (Encapsulamento, Herança, Polimorfismo)  
+- Exceptions (Tratamento de exceções)  
+- Collections  
 
-Estruturas de Dados e Algoritmos
+### 🔄 Em andamento
+- Spring Boot  
+- Desenvolvimento de APIs REST  
+- Integração com banco de dados SQL  
+- Testes unitários (básico)  
 
-Tratamento de Exceções
+### ⏭️ Próximos passos
+- JPA / Hibernate  
+- Spring Security  
+- Padrões de Projeto  
+- Testes automatizados avançados  
+- Conceitos de Cloud  
 
-Collections Framework
+---
 
-🌱 Backend & Ferramentas
-
-Spring Boot (em aprendizado)
-
-APIs REST
-
-SQL (fundamentos)
-
-Git & GitHub
-
-Linux (básico)
-
-🧠 Princípios e Boas Práticas
-
-Clean Code
-
-SOLID (introdução)
-
-Arquitetura em camadas
-
-Versionamento de código
-
-🗺️ Roadmap de Aprendizado
-✅ Fundamentos Java
-
-Sintaxe e APIs principais
-
-POO (Encapsulamento, Herança, Polimorfismo)
-
-Exceptions
-
-Collections
-
-🔄 Em andamento
-
-Spring Boot
-
-Desenvolvimento de APIs REST
-
-Integração com banco de dados SQL
-
-Testes unitários (básico)
-
-⏭️ Próximos passos
-
-JPA / Hibernate
-
-Spring Security
-
-Padrões de Projeto
-
-Testes automatizados avançados
-
-Conceitos de Cloud
-
-📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
 🚧 Projetos serão adicionados conforme evolução do aprendizado.
 
-Exercícios de fundamentos em Java
+- Exercícios de fundamentos em Java  
+- Aplicações em console  
+- Pequenos serviços backend  
+- APIs REST  
 
-Aplicações em console
+---
 
-Pequenos serviços backend
+## 🤝 Conecte-se comigo
 
-APIs REST
+- 💼 LinkedIn: https://www.linkedin.com/in/julio-dev-backend/  
+- 📂 GitHub: Você já está aqui 😄  
 
-🤝 Conecte-se comigo
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/julio-dev-backend/
+## 📈 Objetivo Profissional
 
-📂 GitHub: Você já está aqui 😄
+Atuar como **Desenvolvedor Backend Java**, contribuindo para a construção de sistemas robustos, escaláveis e bem estruturados, enquanto evoluo continuamente minhas habilidades técnicas.
 
-📈 Objetivo Profissional
+---
 
-Atuar como Desenvolvedor Backend Java, contribuindo para a construção de sistemas robustos, escaláveis e bem estruturados, enquanto evoluo continuamente minhas habilidades técnicas.
+> ⭐ *"Consistência vence intensidade."*
 
-⭐ "Consistência vence intensidade."
 <br clear="both">
 <br clear="both">
 
