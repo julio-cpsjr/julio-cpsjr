@@ -76,13 +76,11 @@ Desenvolvedor em formação focado em **Java e Backend**, construindo bases sól
 
 ## 📌 Projetos em Destaque
 
-🚧 Projetos serão adicionados conforme evolução do aprendizado.
-
-- Exercícios de fundamentos em Java  
-- Aplicações em console  
-- Pequenos serviços backend  
-- APIs REST  
-
+- Aincrad Library API - https://github.com/julio-cpsjr/aincrad-archive-api
+- Sentinel - https://github.com/julio-cpsjr/sentinel-backend
+- Guild Manager Mission - https://github.com/julio-cpsjr/guild-players-manager
+- Aincrad Library JDBC - https://github.com/julio-cpsjr/aincrad-archive-jdbc
+  
 ---
 
 ## 🤝 Conecte-se comigo
