@@ -10,8 +10,7 @@
 Desenvolvedor em formação focado em **Java e Backend**, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)  
-📍 Uberlândia — MG, Brasil  
-🚀 Em busca da primeira oportunidade como desenvolvedor backend  
+📍 Uberlândia — MG, Brasil   
 
 ---
 
