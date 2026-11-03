@@ -84,7 +84,7 @@ Desenvolvedor focado em **Java e Backend**, construindo bases sólidas em engenh
 
 ## 🤝 Conecte-se comigo
 
-- 💼 LinkedIn: https://www.linkedin.com/in/julio-dev-backend/  
+- 💼 LinkedIn: https://www.linkedin.com/in/juliocpsjr/  
 - 📂 GitHub: Você já está aqui 😄  
 
 ---
