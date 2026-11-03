@@ -3,13 +3,13 @@
 <div align="center">
   <img  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <br/>
-👨‍💻 Júlio | Desenvolvedor Backend Java em Formação
+👨‍💻 Júlio | Desenvolvedor Backend Java
 <br/>
 </div>
 
-Desenvolvedor em formação focado em **Java e Backend**, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
+Desenvolvedor focado em **Java e Backend**, construindo bases sólidas em engenharia de software, código limpo e desenvolvimento de APIs escaláveis.
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Engenharia Elétrica  
 📍 Uberlândia — MG, Brasil   
 
 ---
